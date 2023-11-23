@@ -167,13 +167,13 @@ body {
     }
 
     .flexChild {
-        width: 80%; /* Adjusted width for better mobile responsiveness */
-        margin: 10px auto; /* Center the flex children and add margin for spacing */
+        width: 80%;
+        margin: 10px auto;
     }
 
     .flexChild img {
-        width: 100%; /* Make the images fill the width of their container */
-        max-width: none; /* Ensure images retain their original size */
+        width: 100%;
+        max-width: none;
         height: auto;
     }
 }
