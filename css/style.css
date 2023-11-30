@@ -196,5 +196,14 @@ body {
     ul li {
         margin-right: 0; 
         margin-bottom: 10px; 
-    }   
+    }  
+    .content {
+      width: 80%; 
+      margin: 40px auto 75px;
+      text-align: center;
+  }
+  .content p {
+      font-size: 16px; 
+      line-height: 1.5; 
+  }
 }
